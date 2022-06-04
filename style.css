@@ -1,0 +1,57 @@
+
+.header {
+    margin: auto;
+    /*display: flex; */
+}
+
+.nav {
+    font-size: 17px;
+    text-align: center; 
+    text-indent: 60px;   
+}
+/*
+.header div {
+    flex: 1;
+}
+*/
+.head1 {
+    text-align: center;
+    
+
+    
+}
+
+.navbutton {
+    color: hsl(0, 0%, 50%);
+    text-decoration: none;
+    border: 0px;
+    border-right: 1px solid black;
+    margin: right 15px; 
+    padding-right: 10px;
+    text-transform: uppercase; 
+}
+
+.navbutton.pork {
+    border: none;
+    padding-left: 6px;
+}
+
+.navbutton.yogurt {
+    padding-left: 8px;
+    padding-right: 15px;
+}
+
+.logo {
+    width: 60px;
+    height:  auto;
+    margin: 0px;
+    padding: 10px 0px 0px 8px;
+    
+}
+
+/* Recipes styling */
+.description {
+    border: 0px;
+    width: 795px;
+    height: auto;
+}
